@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi, I'm Chaitanya Kulkarni 👋
+
+Computer Science student interested in
+Machine Learning, AI, and Web Development.
+
+## Skills
+Python
+Machine Learning
+JavaScript
+Streamlit
+Data Analysis
+
+## Projects
+Solar Energy Forecasting using AI
+Railway Fraud Detection System
 
 <!--
 **Kulkarni-spec/Kulkarni-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
