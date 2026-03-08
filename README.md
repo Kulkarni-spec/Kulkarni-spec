@@ -1,17 +1,18 @@
 # Hi, I'm Chaitanya Kulkarni 👋
 
 Computer Science student interested in
-Machine Learning, AI, and Web Development.
+Machine Learning, AI and Web Development.
 
 ## Skills
-Python
-Machine Learning
-JavaScript
-Streamlit
-Data Analysis
+Python,
+Machine Learning, 
+JavaScript,
+Streamlit,
+Data Analysis,
+HTML,CSS 
 
 ## Projects
-Solar Energy Forecasting using AI
+Solar Energy Forecasting using AI,
 Railway Fraud Detection System
 
 <!--
