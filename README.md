@@ -13,7 +13,9 @@ HTML,CSS
 
 ## Projects
 Solar Energy Forecasting using AI,
-Railway Fraud Detection System
+Railway Fraud Detection System,
+cloud-dedup-system .
+
 
 <!--
 **Kulkarni-spec/Kulkarni-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
