@@ -1,6 +1,6 @@
 # Hi, I'm Chaitanya Kulkarni 👋
 
-Computer Science student interested in
+Information Science student interested in
 Machine Learning, AI and Web Development.
 
 ## Skills
